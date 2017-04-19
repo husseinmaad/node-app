@@ -1,0 +1,19 @@
+{
+  "name": "nodey2",
+  "version": "1.0.0",
+  "description": "another app for study\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/husseinmaad/node-app.git"
+  },
+  "author": "hussein <husseinmaad90@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/husseinmaad/node-app/issues"
+  },
+  "homepage": "https://github.com/husseinmaad/node-app#readme"
+}
