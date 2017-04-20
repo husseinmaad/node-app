@@ -1,0 +1,19 @@
+{
+  "name": "nodey",
+  "version": "1.0.0",
+  "description": "second node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/husseinmaad/node-app.git"
+  },
+  "author": "Guru99. <guru99@gmail.com> (http://Guru99.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/husseinmaad/node-app/issues"
+  },
+  "homepage": "https://github.com/husseinmaad/node-app#readme"
+}
